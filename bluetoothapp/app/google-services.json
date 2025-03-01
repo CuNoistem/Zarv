@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14589780274",
+    "project_id": "carbon-credit-64d39",
+    "storage_bucket": "carbon-credit-64d39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14589780274:android:e426ea7c3b0e3fdf37372b",
+        "android_client_info": {
+          "package_name": "com.example.bluetoothapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Nv7TAWEg6n8JZoYXeQCSLKBs93JfWy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
